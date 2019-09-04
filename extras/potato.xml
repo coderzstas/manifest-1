@@ -64,4 +64,9 @@
   <!-- Others -->
   <project name="flutter/flutter" path="external/flutter" revision="refs/heads/stable" remote="github" />
   <project name="AgentFabulous/PotatoCenter" path="packages/apps/PotatoCenter" revision="refs/heads/baked-release" remote="github" />
+
+  <project name="someromhere/android_device_oneplus_fajita" path="device/oneplus/fajita" remote="github" revision="testing" />
+  <project name="someromhere/android_device_oneplus_sdm845-common" path="device/oneplus/sdm845-common" remote="github" revision="lineage-16.0" />
+  <project name="rebase-test/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="lineage-16.0" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-16.0" />
 </manifest>
